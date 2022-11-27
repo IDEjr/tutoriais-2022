@@ -1,0 +1,17 @@
+:root{
+  --cor-de-fundo: blue;
+  --cor-do-texto: white;
+}
+
+.container{
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--cor-de-fundo);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.caixa{
+  color: var(--cor-do-texto);
+}

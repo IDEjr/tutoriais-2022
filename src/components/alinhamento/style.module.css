@@ -1,0 +1,107 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .containerFlex{
+    box-sizing: border-box; /*vídeo 2*/
+    display: flex;
+    width: 90%;
+    height: 90%;
+    background-color: aquamarine;
+    padding: 20px; /*vídeo 2*/
+    border: 1px solid black;
+    color: white;
+  }
+  
+  /*vídeo 1*/
+  .containerFlex.superiorEsquerdo{
+    /*superiorEsquerdo*/
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  
+  .containerFlex.superiorCentro{
+    /*superiorCentro*/
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .containerFlex.superiorDireito{
+    /*superiorDireito*/
+    justify-content: flex-end;
+    align-items: flex-start;
+  }
+  
+  .containerFlex.centroEsquerdo{
+    /*centroEsquerdo*/
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .containerFlex.centralizado{
+    /*centralizado*/
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .containerFlex.centroDireito{
+    /*centroDireito*/
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .containerFlex.inferiorEsquerdo{
+    /*inferiorEsquerdo*/
+    justify-content: flex-start;
+    align-items: flex-end;
+  }
+  
+  .containerFlex.inferiorCentro{
+    /*inferiorCentro*/
+    justify-content: center;
+    align-items: flex-end;
+  }
+  
+  .containerFlex.inferiorDireito{
+    /*inferiorDireito*/
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+  
+  .caixa{
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+  }
+  
+  .containerFlex.esquerdo{
+    justify-content: flex-start;
+  }
+  
+  .containerFlex.centro{
+    justify-content: center;
+  }
+  
+  .containerFlex.direito{
+    justify-content: flex-end;
+  }
+  
+  .caixa.esquerdo{
+    align-self: flex-start;
+  }
+  
+  .caixa.centro{
+    align-self: center;
+  }
+  
+  .caixa.direito{
+    align-self: flex-end;
+  }
+  /*vídeo 1*/
