@@ -1,0 +1,14 @@
+.container
+{
+    background-image: url('../../../public/logo.png');
+    background-size: cover;
+
+    width: 50vw;
+    height: 28vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 10%;
+}
