@@ -16,3 +16,23 @@ code {
 :root{
   --cor-da-caixa: purple;
 }
+
+.button
+{
+  width: 9vw;
+  height: 9vw;
+
+  background-color: transparent;
+  display: flex;
+
+  margin-top: 10vw;
+  margin-left: 2vw;
+  margin-right: 2vw;
+
+  border-left-color: blueviolet;
+  border-left-style: solid;
+  border-bottom-color: blueviolet;
+  border-bottom-style: solid;
+  border-right-style: none;
+  border-top-style: none;  
+}
