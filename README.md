@@ -5,7 +5,7 @@
 <div align="center">
   <br/>
   <a href="https://www.idejr.com.br/">
-  <img alt="IDE" src="https://user-images.githubusercontent.com/69876980/204844288-68a79dae-914a-4ef7-b73c-97b712d6031a.png" width="500" align="center"/>
+  <img alt="IDE" src="https://user-images.githubusercontent.com/69876980/204883150-8ac4d322-b375-4e86-b249-9c0a53fbaa56.png" width="500" align="center"/>
   <br/><br/>
 </div>
 
