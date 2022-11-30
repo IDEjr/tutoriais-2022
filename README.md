@@ -3,8 +3,9 @@
 <h1 align="center"> PS - 2022/3 </h1>
 
 <div align="center">
+  <br/>
   <a href="https://www.idejr.com.br/">
-  <img alt="IDE" src="https://user-images.githubusercontent.com/69876980/204833521-fb2cecf9-b65c-4dda-9307-d626f3caabf2.png" width="500" align="center"/>
+  <img alt="IDE" src="https://user-images.githubusercontent.com/69876980/204844288-68a79dae-914a-4ef7-b73c-97b712d6031a.png" width="500" align="center"/>
   <br/><br/>
 </div>
 
