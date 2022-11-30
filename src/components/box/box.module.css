@@ -1,11 +1,18 @@
-.container
+.linha
 {
-    font-size:small;
+    width: 100%;
+    height: fit-content;
 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.coluna
+{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
-    margin-bottom: 20px;
 }
