@@ -1,12 +1,14 @@
 import styles from './style.module.css';
+import Caixa from './caixa'
 
 function Alinhamento() {
   return (
-    <div className={styles.App}>
-        <div className={`${styles.containerFlex} ${styles.inferiorDireito}`}>
-          <div className={`${styles.caixa}`}>
-            TESTE 1
-          </div>   
+    <div className={styles.containerConteudo}>
+        <div className={`${styles.containerFlex}`}>
+          <Caixa /> 
+          <Caixa /> 
+          <Caixa /> 
+          <Caixa /> 
         </div>
     </div>
   );

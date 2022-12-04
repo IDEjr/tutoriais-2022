@@ -1,6 +1,11 @@
 :root{
-  --cor-de-fundo: blue;
-  --cor-do-texto: white;
+  --cor-de-fundo: green;
+  --cor-da-caixa: white;
+  --tamanho-lado-caixa: 200px;
+}
+
+.img{
+  height: 30%;
 }
 
 .container{
@@ -13,5 +18,13 @@
 }
 
 .caixa{
-  color: var(--cor-do-texto);
+  background-color: var(--cor-da-caixa);
+  width: var(--tamanho-lado-caixa);
+  height: var(--tamanho-lado-caixa);
+  border-radius: 40px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
 }
