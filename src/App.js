@@ -6,10 +6,11 @@ import Contador from './components/contador';
 import ExibirData from './components/exibirData';
 import ImportCSS from './components/importCSS';
 import ImportImage from './components/importImage';
+import ViewportVW from "./components/viewportLarguraVw";
 
 function App() {
   return (
-    <Alinhamento />
+    <ViewportVW/>
   );
 }
 
